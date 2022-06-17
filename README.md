@@ -1,2 +1,2 @@
-# covid19_data
-Criando um projeto teste para aprender a consumir uma API e mostrar dados do covid pelo Mundo.
+# mundo_financeiro
+Consumindo API financeira para saber cotações de moedas fiduciárias e criptos.
